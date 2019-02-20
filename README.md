@@ -1,2 +1,2 @@
 # Case-Study-Hacker-Statistics.py
-##simple game using python 
+simple game using python 
